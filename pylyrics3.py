@@ -7,6 +7,8 @@ from collections import defaultdict
 from bs4 import BeautifulSoup
 
 
+# modified by JRAS
+
 class PyLyrics3(object):
     '''
     Lyric-scraper object.
